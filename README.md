@@ -27,13 +27,11 @@ Para usar este repositório, você pode fazer o clone ou download dos arquivos. 
 
 ## Licença
 
-Este projeto está licenciado sob a licença XYZ. Para mais detalhes, veja o arquivo LICENSE.
+Este projeto está licenciado sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.
 
 
 
 ## Referências
 
-Informações sobre o ENADE foram obtidas do site oficial do INEP: Exame Nacional de Desempenho dos Estudantes (ENADE)
-
-
+[Informações sobre o ENADE foram obitidas do site oficial do INEP:](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade)
 
